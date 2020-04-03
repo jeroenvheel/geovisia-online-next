@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeoVisia.Online.Gateway", "GeoVisia.Online.Gateway\GeoVisia.Online.Gateway.csproj", "{0E0D984C-55E3-4A13-B1AB-03454C45936A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoVisia.Online.Content", "GeoVisia.Online.Content\GeoVisia.Online.Content.csproj", "{F31433C1-0561-4033-893E-44141948D57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoVisia.Online.Portal", "GeoVisia.Online.Portal\GeoVisia.Online.Portal.csproj", "{9BE55084-97DC-437A-B6C8-A4CAE25EF438}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoVisia.Online.Portal.Tests", "GeoVisia.Online.Portal.Tests\GeoVisia.Online.Portal.Tests.csproj", "{23546BBB-3B66-4650-8FA0-A2FA60DCF699}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E0D984C-55E3-4A13-B1AB-03454C45936A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0D984C-55E3-4A13-B1AB-03454C45936A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0D984C-55E3-4A13-B1AB-03454C45936A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0D984C-55E3-4A13-B1AB-03454C45936A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31433C1-0561-4033-893E-44141948D57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31433C1-0561-4033-893E-44141948D57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31433C1-0561-4033-893E-44141948D57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31433C1-0561-4033-893E-44141948D57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE55084-97DC-437A-B6C8-A4CAE25EF438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE55084-97DC-437A-B6C8-A4CAE25EF438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE55084-97DC-437A-B6C8-A4CAE25EF438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE55084-97DC-437A-B6C8-A4CAE25EF438}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23546BBB-3B66-4650-8FA0-A2FA60DCF699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23546BBB-3B66-4650-8FA0-A2FA60DCF699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23546BBB-3B66-4650-8FA0-A2FA60DCF699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23546BBB-3B66-4650-8FA0-A2FA60DCF699}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C883AF1-AEDE-4A6A-9CEE-2F4B75E1FC1D}
+	EndGlobalSection
+EndGlobal
